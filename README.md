@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcschul
 - 👀 I’m interested in Full-Stack Development / Software Engineering
-- 🌱 I’m currently 
+- 🌱 I’m currently attending Lighthouse Labs
 ```js
 learningSkills = {
   languages: [html, css, javascript, sql, rubyOnRails],
