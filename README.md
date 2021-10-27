@@ -4,7 +4,7 @@
 ```js
 learningSkills = {
 languages: [html, css, javascript, sql, rubyOnRails],
-computer Science:  [algorithms, databases, dataStructures],
+computerScience:  [algorithms, databases, dataStructures],
 tooling: [git, github, versionControl, Nodejs, npm, react]
 softSkills: [zoom, slack, scrums, teamwork]
 }
