@@ -3,10 +3,10 @@
 - 🌱 I’m currently 
 ```js
 learningSkills = {
-languages: [html, css, javascript, sql, rubyOnRails],
-computerScience:  [algorithms, databases, dataStructures],
-tooling: [git, github, versionControl, nodejs, npm, react],
-softSkills: [zoom, slack, scrums, teamwork]
+  languages: [html, css, javascript, sql, rubyOnRails],
+  computerScience:  [algorithms, databases, dataStructures],
+  tooling: [git, github, versionControl, nodejs, npm, react],
+  softSkills: [zoom, slack, scrums, teamwork]
 }
 ```
 - 💞️ I’m looking to collaborate on Online Apps
