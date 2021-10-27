@@ -11,6 +11,8 @@ learningSkills = {
 ```
 - 💞️ I’m looking to collaborate on Online Apps
 - 📫 How to reach me: marcschulm@gmail.com
+- Are you an empoloyeer looking to hire talent? Vist my portal to learn more about me!
+- https://marcschul.github.io/portfolio/
 
 <!---
 marcschul/marcschul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
