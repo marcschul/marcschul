@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcschul
 - 👀 I’m interested in Full-Stack Development / Software Engineering
-- 🌱 I’m currently attending Lighthouse Labs - Coding bootcamp
+- 🌱 I've a fresh bootcamp grad from Lighthouse Labs seeking employment
 ```js
 learningSkills = {
   languages: [html, css, javascript, sql, rubyOnRails],
